@@ -1,1 +1,1 @@
-# CognoRise
+Internet of THings
